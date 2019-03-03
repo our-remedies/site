@@ -12,6 +12,36 @@
     
     
     <item>
+      <title>Allergies</title>
+      <link>//localhost:1313/ailments/a/allergies/</link>
+      <pubDate>Sun, 03 Mar 2019 11:55:18 -0600</pubDate>
+      
+      <guid>//localhost:1313/ailments/a/allergies/</guid>
+      <description>Specific
+Nu Valens - 3 at night
+Corn - Dioxin base (from paper products/corn kernels) - Nu Valens
+Animal dander, hair, etc - Nu Ease (1+1)
+Wheat - Add Nu Ease (1+1)
+Rubber (Mercury poisoning) - Nu Passant
+Pollen - Nu Zareba (3 at night)
+Perfumes - Nu Passant (3 + 3 + 3)
+Dairy - Nu Obdurate (3 once a day)
+Mold, Mildew, etc. - Nu Adjunct (3 + 3)</description>
+    </item>
+    
+    <item>
+      <title>Acne</title>
+      <link>//localhost:1313/ailments/a/acne/</link>
+      <pubDate>Sun, 03 Mar 2019 11:27:58 -0600</pubDate>
+      
+      <guid>//localhost:1313/ailments/a/acne/</guid>
+      <description>Hormonal imbalance
+Nu Passant - 2 in the morning &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;2 in the afternoon
+Nu Locule - 3 in the morning &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;3 in the afternoon
+If outbreaks or lingering acne or scars are purplish in color this indicates a stap infection. Use Nu Squeeg, 3 a day.</description>
+    </item>
+    
+    <item>
       <title>Nu Adjunct</title>
       <link>//localhost:1313/thaumaturge/nu-adjunct/</link>
       <pubDate>Sat, 02 Mar 2019 21:18:32 -0600</pubDate>
